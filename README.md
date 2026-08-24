@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** Add your Vercel deployment link here
+🔗 **Portfolio:** (https://personal-portfolio-chi-seven-80.vercel.app/)
 
 ---
 
